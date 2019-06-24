@@ -1,0 +1,1 @@
+name = "i am a package_nested"

@@ -1,0 +1,3 @@
+import modul_test
+
+print(modul_test.module_nested_directory.constant.authorname)
